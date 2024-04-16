@@ -1,1 +1,3 @@
 # prophet-challenge
+
+In this challenge we were tasked with looking at the trends and stocks of Mercado Libre. First we were to read in the trends csv and then clean and extrapolate data about the search traffic. Next we were to read in the stocks csv and cocncatenate it with the trends dataframe to extrapolate things such as stock volatility and hourly stock return. Finally, we used Prophet to forecast future search traffic trends based on the existing data.
